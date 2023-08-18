@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBodyMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000000000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: inputs
+    m_Weight: 0
+  - m_Path: inputs/c_jaw_bone
+    m_Weight: 0
+  - m_Path: inputs/c_neck_volume_tissue_bakeMesh
+    m_Weight: 0
+  - m_Path: inputs/c_ribcage_volume_bone
+    m_Weight: 0
+  - m_Path: inputs/c_ribcage_volume_tissue
+    m_Weight: 0
+  - m_Path: inputs/c_skull_bone
+    m_Weight: 0
+  - m_Path: inputs/c_spinal_column_bone
+    m_Weight: 0
+  - m_Path: inputs/c_sternum_bone
+    m_Weight: 0
+  - m_Path: inputs/l_abs_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_bicep_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_brachialis_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_brachioradialis_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_calf_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_clav_bone
+    m_Weight: 0
+  - m_Path: inputs/l_coracobrachialis_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_deltoids_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_extensors_1_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_extensors_2_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_femur_bone
+    m_Weight: 0
+  - m_Path: inputs/l_fibula_bone
+    m_Weight: 0
+  - m_Path: inputs/l_flexors_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_glutes_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_groin_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_hamstrings_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_hand_bone
+    m_Weight: 0
+  - m_Path: inputs/l_heel_bone
+    m_Weight: 0
+  - m_Path: inputs/l_humerus_bone
+    m_Weight: 0
+  - m_Path: inputs/l_infraspinatus_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_latissimus_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_patella_bone
+    m_Weight: 0
+  - m_Path: inputs/l_pectoralis_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_pelvis_bone
+    m_Weight: 0
+  - m_Path: inputs/l_pronator_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_quads_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_radius_bone
+    m_Weight: 0
+  - m_Path: inputs/l_rhomboid_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_scapula_bone
+    m_Weight: 0
+  - m_Path: inputs/l_serratus_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_shin_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_sternomastoid_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_teres_major_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_tibia_bone
+    m_Weight: 0
+  - m_Path: inputs/l_trapezius_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_tricep_tissue
+    m_Weight: 0
+  - m_Path: inputs/l_ulna_bone
+    m_Weight: 0
+  - m_Path: inputs/r_abs_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_bicep_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_brachialis_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_brachioradialis_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_calf_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_clav_bone
+    m_Weight: 0
+  - m_Path: inputs/r_coracobrachialis_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_deltoids_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_extensors_1_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_extensors_2_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_femur_bone
+    m_Weight: 0
+  - m_Path: inputs/r_fibula_bone
+    m_Weight: 0
+  - m_Path: inputs/r_flexors_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_glutes_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_groin_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_hamstrings_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_hand_bone
+    m_Weight: 0
+  - m_Path: inputs/r_heel_bone
+    m_Weight: 0
+  - m_Path: inputs/r_humerus_bone
+    m_Weight: 0
+  - m_Path: inputs/r_infraspinatus_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_latissimus_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_patella_bone
+    m_Weight: 0
+  - m_Path: inputs/r_pectoralis_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_pelvis_bone
+    m_Weight: 0
+  - m_Path: inputs/r_pronator_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_quads_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_radius_bone
+    m_Weight: 0
+  - m_Path: inputs/r_rhomboid_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_scapula_bone
+    m_Weight: 0
+  - m_Path: inputs/r_serratus_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_shin_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_sternomastoid_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_teres_major_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_tibia_bone
+    m_Weight: 0
+  - m_Path: inputs/r_trapezius_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_tricep_tissue
+    m_Weight: 0
+  - m_Path: inputs/r_ulna_bone
+    m_Weight: 0
+  - m_Path: mixamorig:Hips
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:LeftUpLeg
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:RightUpLeg
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+    m_Weight: 0
+  - m_Path: mixamorig:Hips/mixamorig:Spine
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+    m_Weight: 1
+  - m_Path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+    m_Weight: 1

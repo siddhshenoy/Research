@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 512abecec7a153b4e99bca623c0311f8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
+  <linkedMesh>k__BackingField: {fileID: 919132149155446097, guid: 855893376f2b172449e0120a2ddbb419, type: 3}
+  <scaleImportedZivaUsingLinkedMesh>k__BackingField: 1

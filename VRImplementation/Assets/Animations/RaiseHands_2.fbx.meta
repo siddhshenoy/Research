@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: a0dacc6affdd77443b0e35266edb9759
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: InkTPose(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: inputs
+      parentName: InkTPose(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: c_jaw_bone
+      parentName: inputs
+      position: {x: 0.00034304525, y: 1.3148352, z: 0.026884925}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: c_ribcage_volume_bone
+      parentName: inputs
+      position: {x: -0.00044747203, y: 0.9998075, z: -0.047099303}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: c_skull_bone
+      parentName: inputs
+      position: {x: 0.0005493517, y: 1.3987892, z: -0.005301084}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: c_spinal_column_bone
+      parentName: inputs
+      position: {x: -0.000017460736, y: 1.0270363, z: -0.10099677}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: c_sternum_bone
+      parentName: inputs
+      position: {x: -0.00019012306, y: 1.0882126, z: 0.055950444}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_clav_bone
+      parentName: inputs
+      position: {x: -0.107672624, y: 1.1945142, z: -0.03682742}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_femur_bone
+      parentName: inputs
+      position: {x: -0.123189256, y: 0.5512329, z: -0.031562883}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_fibula_bone
+      parentName: inputs
+      position: {x: -0.15676366, y: 0.22541267, z: -0.05885057}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_hand_bone
+      parentName: inputs
+      position: {x: -0.5596681, y: 0.8769682, z: 0.021920258}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_heel_bone
+      parentName: inputs
+      position: {x: -0.18496326, y: 0.034424733, z: -0.08313667}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_humerus_bone
+      parentName: inputs
+      position: {x: -0.31830233, y: 1.0512727, z: -0.057887588}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_patella_bone
+      parentName: inputs
+      position: {x: -0.14202191, y: 0.40082133, z: 0.014979593}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_pelvis_bone
+      parentName: inputs
+      position: {x: -0.058705773, y: 0.7017995, z: -0.01853608}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_radius_bone
+      parentName: inputs
+      position: {x: -0.48660555, y: 0.9412232, z: 0.00052598584}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_scapula_bone
+      parentName: inputs
+      position: {x: -0.1460526, y: 1.1430324, z: -0.13021469}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_tibia_bone
+      parentName: inputs
+      position: {x: -0.17343085, y: 0.20680769, z: -0.07514735}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_ulna_bone
+      parentName: inputs
+      position: {x: -0.48210135, y: 0.9200946, z: -0.023669483}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_clav_bone
+      parentName: inputs
+      position: {x: 0.10812204, y: 1.1935463, z: -0.035943344}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_femur_bone
+      parentName: inputs
+      position: {x: 0.12269839, y: 0.55111635, z: -0.031237178}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_fibula_bone
+      parentName: inputs
+      position: {x: 0.15597537, y: 0.22522455, z: -0.058549218}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_hand_bone
+      parentName: inputs
+      position: {x: 0.56020916, y: 0.87679, z: 0.022448152}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_heel_bone
+      parentName: inputs
+      position: {x: 0.18358614, y: 0.03391651, z: -0.08286801}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_humerus_bone
+      parentName: inputs
+      position: {x: 0.31680074, y: 1.0517825, z: -0.057329047}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_patella_bone
+      parentName: inputs
+      position: {x: 0.14153558, y: 0.4013548, z: 0.015015105}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_pelvis_bone
+      parentName: inputs
+      position: {x: 0.05814427, y: 0.7015243, z: -0.018409865}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_radius_bone
+      parentName: inputs
+      position: {x: 0.48712885, y: 0.94030005, z: 0.0014549901}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_scapula_bone
+      parentName: inputs
+      position: {x: 0.14479254, y: 1.1437167, z: -0.12986907}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_tibia_bone
+      parentName: inputs
+      position: {x: 0.1726926, y: 0.2065767, z: -0.07480154}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_ulna_bone
+      parentName: inputs
+      position: {x: 0.4828863, y: 0.919192, z: -0.023141718}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: c_neck_volume_tissue_bakeMesh
+      parentName: inputs
+      position: {x: -0.00037058326, y: 1.2556981, z: -0.056159995}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: c_ribcage_volume_tissue
+      parentName: inputs
+      position: {x: 0.0000000130234605, y: 1.0003713, z: -0.047415107}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_abs_tissue
+      parentName: inputs
+      position: {x: -0.073689766, y: 0.8436081, z: 0.029647905}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_bicep_tissue
+      parentName: inputs
+      position: {x: -0.29873583, y: 1.0678332, z: -0.025277214}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_brachialis_tissue
+      parentName: inputs
+      position: {x: -0.35194564, y: 1.0278007, z: -0.03604428}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_brachioradialis_tissue
+      parentName: inputs
+      position: {x: -0.46266752, y: 0.9619814, z: 0.0012431915}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_calf_tissue
+      parentName: inputs
+      position: {x: -0.15726648, y: 0.22860782, z: -0.08359937}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_coracobrachialis_tissue
+      parentName: inputs
+      position: {x: -0.23570356, y: 1.0891712, z: -0.05386354}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_deltoids_tissue
+      parentName: inputs
+      position: {x: -0.2244392, y: 1.1640604, z: -0.08500986}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_extensors_1_tissue
+      parentName: inputs
+      position: {x: -0.48726577, y: 0.93641824, z: -0.030164909}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_extensors_2_tissue
+      parentName: inputs
+      position: {x: -0.49201587, y: 0.94826263, z: -0.0038797809}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_flexors_tissue
+      parentName: inputs
+      position: {x: -0.4655987, y: 0.91412383, z: -0.020473892}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_glutes_tissue
+      parentName: inputs
+      position: {x: -0.123725526, y: 0.6170596, z: -0.051378306}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_groin_tissue
+      parentName: inputs
+      position: {x: -0.080642864, y: 0.5437049, z: -0.0027697235}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_hamstrings_tissue
+      parentName: inputs
+      position: {x: -0.11328409, y: 0.50622314, z: -0.051019587}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_infraspinatus_tissue
+      parentName: inputs
+      position: {x: -0.16609876, y: 1.1221523, z: -0.14696689}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_latissimus_tissue
+      parentName: inputs
+      position: {x: -0.1038592, y: 0.9628841, z: -0.13105384}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_pectoralis_tissue
+      parentName: inputs
+      position: {x: -0.14109369, y: 1.1070701, z: 0.013678153}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_pronator_tissue
+      parentName: inputs
+      position: {x: -0.417849, y: 0.9534014, z: -0.0114454925}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_quads_tissue
+      parentName: inputs
+      position: {x: -0.120710075, y: 0.55937517, z: 0.0032716373}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_rhomboid_tissue
+      parentName: inputs
+      position: {x: -0.046470407, y: 1.1001714, z: -0.16207647}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_serratus_tissue
+      parentName: inputs
+      position: {x: -0.14041375, y: 1.0525397, z: -0.09574657}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_shin_tissue
+      parentName: inputs
+      position: {x: -0.17725626, y: 0.18863359, z: -0.06474185}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_sternomastoid_tissue
+      parentName: inputs
+      position: {x: -0.047959138, y: 1.2687695, z: -0.020864034}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_teres_major_tissue
+      parentName: inputs
+      position: {x: -0.17540857, y: 1.0764042, z: -0.1339695}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_trapezius_tissue
+      parentName: inputs
+      position: {x: -0.06006732, y: 1.1530055, z: -0.14827469}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_tricep_tissue
+      parentName: inputs
+      position: {x: -0.29945296, y: 1.052698, z: -0.089196384}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_abs_tissue
+      parentName: inputs
+      position: {x: 0.073689766, y: 0.8436081, z: 0.029647905}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_bicep_tissue
+      parentName: inputs
+      position: {x: 0.29873583, y: 1.0678332, z: -0.025277214}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_brachialis_tissue
+      parentName: inputs
+      position: {x: 0.35194564, y: 1.0278007, z: -0.03604428}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_brachioradialis_tissue
+      parentName: inputs
+      position: {x: 0.46266752, y: 0.9619814, z: 0.0012431919}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_calf_tissue
+      parentName: inputs
+      position: {x: 0.15726648, y: 0.22860782, z: -0.08359937}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_coracobrachialis_tissue
+      parentName: inputs
+      position: {x: 0.23570356, y: 1.0891712, z: -0.05386354}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_deltoids_tissue
+      parentName: inputs
+      position: {x: 0.2244392, y: 1.1640604, z: -0.08500986}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_extensors_1_tissue
+      parentName: inputs
+      position: {x: 0.48726577, y: 0.93641824, z: -0.030164909}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_extensors_2_tissue
+      parentName: inputs
+      position: {x: 0.49201587, y: 0.94826263, z: -0.0038797809}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_flexors_tissue
+      parentName: inputs
+      position: {x: 0.4655987, y: 0.91412383, z: -0.020473892}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_glutes_tissue
+      parentName: inputs
+      position: {x: 0.123725496, y: 0.6170596, z: -0.051378306}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_groin_tissue
+      parentName: inputs
+      position: {x: 0.080642864, y: 0.5437049, z: -0.0027697235}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_hamstrings_tissue
+      parentName: inputs
+      position: {x: 0.11328409, y: 0.50622314, z: -0.051019587}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_infraspinatus_tissue
+      parentName: inputs
+      position: {x: 0.16609876, y: 1.1221523, z: -0.14696689}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_latissimus_tissue
+      parentName: inputs
+      position: {x: 0.1038592, y: 0.9628841, z: -0.13105384}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_pectoralis_tissue
+      parentName: inputs
+      position: {x: 0.14109369, y: 1.1070701, z: 0.013678153}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_pronator_tissue
+      parentName: inputs
+      position: {x: 0.417849, y: 0.9534014, z: -0.0114454925}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_quads_tissue
+      parentName: inputs
+      position: {x: 0.120710075, y: 0.55937517, z: 0.0032716373}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_rhomboid_tissue
+      parentName: inputs
+      position: {x: 0.046470407, y: 1.1001714, z: -0.16207647}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_serratus_tissue
+      parentName: inputs
+      position: {x: 0.14041375, y: 1.0525397, z: -0.09574657}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_shin_tissue
+      parentName: inputs
+      position: {x: 0.17725626, y: 0.18863359, z: -0.06474185}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_sternomastoid_tissue
+      parentName: inputs
+      position: {x: 0.047959138, y: 1.2687695, z: -0.02086403}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_teres_major_tissue
+      parentName: inputs
+      position: {x: 0.17540857, y: 1.0764042, z: -0.1339695}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_trapezius_tissue
+      parentName: inputs
+      position: {x: 0.06006732, y: 1.1530055, z: -0.14827469}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_tricep_tissue
+      parentName: inputs
+      position: {x: 0.29945296, y: 1.052698, z: -0.089196384}
+      rotation: {x: 7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Hips
+      parentName: InkTPose(Clone)
+      position: {x: 0.000026125363, y: 0.8347484, z: 0.02443627}
+      rotation: {x: 0.0000025809002, y: 0.000010489717, z: -0.00036861587, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.07687752, z: -0.013037632}
+      rotation: {x: -0.08389936, y: -0.000041378564, z: 0.00036643626, w: 0.99647415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.09097118, z: 0}
+      rotation: {x: 1.0385721e-25, y: -1.5608466e-13, z: 6.653902e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.10396694, z: 3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 4.378178e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.11696284, z: 0.000000022832623}
+      rotation: {x: 0.08389696, y: 2.3406654e-14, z: 2.3014885e-13, w: 0.99647444}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.0720607, z: 0.02891054}
+      rotation: {x: 0, y: 0, z: 3.0853764e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.19347641, z: 0.077622175}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.06860165, y: 0.09999409, z: -0.0034725186}
+      rotation: {x: 0.5191536, y: -0.47585577, z: 0.5366183, w: 0.4648458}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -1.7763568e-17, y: 0.13899972, z: 0}
+      rotation: {x: -0.056337833, y: 0.069701254, z: -0.018402135, w: 0.9958058}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -3.5527136e-17, y: 0.28197554, z: 0}
+      rotation: {x: 0.00000019368089, y: 0.0049639954, z: -0.0000003026651, w: 0.9999877}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: 7.105427e-17, y: 0.18559285, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.06860165, y: 0.099797994, z: -0.0023161534}
+      rotation: {x: -0.5248332, y: -0.4716736, z: 0.53238714, w: -0.4675876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -3.5527136e-17, y: 0.13899972, z: 0}
+      rotation: {x: -0.05868295, y: -0.04045758, z: 0.008307423, w: 0.9974219}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: 3.5527136e-17, y: 0.28134474, z: 0}
+      rotation: {x: -0.00000026832794, y: -0.005664909, z: -0.000000258157, w: 0.99998397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0, y: 0.18556401, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.058700766, y: -0.042777173, z: -0.025909327}
+      rotation: {x: -0.005723345, y: 0.051419713, z: 0.9984208, w: 0.02189216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: -0, y: 0.3844914, z: 6.661338e-18}
+      rotation: {x: -0.13079958, y: -0.0047426666, z: 0.044133477, w: 0.99041474}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -3.5527136e-17, y: 0.3837922, z: 0}
+      rotation: {x: 0.50008345, y: 0.05668025, z: -0.15389824, w: 0.8503054}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -0, y: 0.010227111, z: 8.881784e-18}
+      rotation: {x: 0.5552523, y: 0.094468355, z: -0.06366964, w: 0.82384276}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: -3.5527136e-17, y: 0.01064991, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.058700766, y: -0.042777173, z: -0.02508656}
+      rotation: {x: 0.0038986972, y: 0.03338025, z: 0.99917537, w: -0.0227864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -0, y: 0.38421547, z: 0}
+      rotation: {x: -0.09625568, y: 0.0036708657, z: -0.044782706, w: 0.99434197}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -3.5527136e-17, y: 0.38093588, z: 1.7763568e-17}
+      rotation: {x: 0.5422351, y: -0.07254793, z: 0.15549287, w: 0.82252055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -0, y: 0.012518891, z: 0}
+      rotation: {x: 0.42425004, y: -0.035110045, z: 0.016464215, w: 0.9047144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -0, y: 0.015542105, z: -2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d9724d2b43540c04c8fbd0f3fa300ced, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
