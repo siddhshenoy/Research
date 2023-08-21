@@ -28,4 +28,11 @@ Software: Unity 2021.3.17f1 (OnScreen) or 2021.3.27f1 (Virtual Reality)
 
 1. Oculus Meta Quest 2
 
+# References
+
+1.  Ganesh. Ganeshsar/unitypythonmediapipebodypose: Testing multithreaded body
+tracking inside of unity using google mediapipe pose python bindings., Jun 2023.
+URL https://github.com/ganeshsar/UnityPythonMediaPipeBodyPose.
+
+
 
